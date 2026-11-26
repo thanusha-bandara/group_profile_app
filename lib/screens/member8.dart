@@ -5,7 +5,7 @@ class Member8Screen extends StatelessWidget {
 
   static const displayName = 'Nimantha Bandara';
   static const accentColor = Color(0xFF855C26);
-  static const _photoAsset = '';
+  static const _photoAsset = 'lib/assets/Nimantha.jpeg';
   static const _details = [
     (icon: Icons.location_on_outlined, label: 'Address', value: 'No. 67, Rathmetiya Rd, Rikillagaskada'),
     (icon: Icons.email_outlined, label: 'Email', value: 'Nimanthabandara990@gmail.com'),
