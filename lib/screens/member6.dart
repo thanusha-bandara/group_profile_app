@@ -3,22 +3,26 @@ import 'package:flutter/material.dart';
 class Member6Screen extends StatelessWidget {
   const Member6Screen({super.key});
 
-  static const displayName = 'Member 6';
+  static const displayName = 'Asrar';
   static const accentColor = Color(0xFF395285);
-  static const _photoAsset = '';
+  static const _photoAsset = 'lib/assets_img/IMG_1164.JPG.jpeg';
   static const _details = [
-    (icon: Icons.location_on_outlined, label: 'Address', value: 'To be added'),
-    (icon: Icons.email_outlined, label: 'Email', value: 'To be added'),
+    (icon: Icons.location_on_outlined, label: 'Address', value: 'Sri Lanka'),
+    (icon: Icons.email_outlined, label: 'Email', value: 'Add your email'),
     (
       icon: Icons.school_outlined,
       label: 'Academic qualifications',
-      value: 'To be added',
+      value: 'IT / Computer Science studies, Software Development, Web and Mobile Application Development',
     ),
-    (icon: Icons.groups_outlined, label: 'Soft skills', value: 'To be added'),
+    (
+      icon: Icons.groups_outlined,
+      label: 'Soft skills',
+      value: 'Teamwork, Problem Solving, Communication, Time Management, Adaptability',
+    ),
     (
       icon: Icons.stars_outlined,
       label: 'Special talents',
-      value: 'To be added',
+      value: 'Programming, Web Development, Flutter Mobile App Development, Database Management, UI Development',
     ),
   ];
 
