@@ -8,7 +8,7 @@ class Member6Screen extends StatelessWidget {
   static const _photoAsset = 'lib/assets_img/IMG_1164.JPG.jpeg';
   static const _details = [
     (icon: Icons.location_on_outlined, label: 'Address', value: 'Sri Lanka'),
-    (icon: Icons.email_outlined, label: 'Email', value: 'Add your email'),
+    (icon: Icons.email_outlined, label: 'Email', value: 'asrarsanu@gmail.com'),
     (
       icon: Icons.school_outlined,
       label: 'Academic qualifications',
