@@ -5,7 +5,7 @@ class Member6Screen extends StatelessWidget {
 
   static const displayName = 'Asrar';
   static const accentColor = Color(0xFF395285);
-  static const _photoAsset = 'lib/assets_img/IMG_1164.JPG.jpeg';
+  static const _photoAsset = 'lib/assets/IMG_1164.JPG.jpeg';
   static const _details = [
     (icon: Icons.location_on_outlined, label: 'Address', value: 'Sri Lanka'),
     (icon: Icons.email_outlined, label: 'Email', value: 'asrarsanu@gmail.com'),

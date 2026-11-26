@@ -1,29 +1,26 @@
-# Group Profile App
+# Group Profile App – Group 1
 
-This Flutter app uses Firebase email/password authentication and displays nine group member profiles after sign-in.
+## Mobile Communication – Continuous Assessment 02
 
-## Run on Android
 
-1. Register the Android application ID `com.group_profile_app` in the group's Firebase project and save its `google-services.json` to `android/app/`.
-2. Run `flutter pub get`, then use `flutter run` with an Android device or emulator.
-3. Sign in with the test account created in Firebase Authentication. Use the sign-out button on the member list to return to the login screen.
 
-## Group members
+## Group Members and Individual Contributions
 
-| Name | Student ID | Bio screen |
+| Student ID | Name | Contribution |
 | --- | --- | --- |
-| To be added | To be added | [Member 1](lib/screens/member1.dart) |
-| To be added | To be added | [Member 2](lib/screens/member2.dart) |
-| To be added | To be added | [Member 3](lib/screens/member3.dart) |
-| To be added | To be added | [Member 4](lib/screens/member4.dart) |
-| To be added | To be added | [Member 5](lib/screens/member5.dart) |
-| To be added | To be added | [Member 6](lib/screens/member6.dart) |
-| To be added | To be added | [Member 7](lib/screens/member7.dart) |
-| To be added | To be added | [Member 8](lib/screens/member8.dart) |
-| To be added | To be added | [Member 9](lib/screens/member9.dart) |
+| 23IT0451 | N. P. Aluthge | Member 2 Screen |
+| 23IT0452 | M. D. B. Amarakoon | Member 3 Screen |
+| 23IT0453 | W. G. H. Anuruddhika | Member 4 Screen |
+| 23IT0454 | G. N. S. Aponsu | Member 5 Screen |
+| 23IT0456 | N. M. Asrar | Member 6 Screen |
+| 23IT0457 | D. M. Asriff | Member 7 Screen |
+| 23IT0458 | K. G. C. N. Bandara | Member 8 Screen |
+| 23IT0459 | U. M. N. W. T. S. Bandara | Login Page and Member 1 Screen |
+| 23IT0460 | K. R. A. S. Bandara | Member 9 Screen |
 
-Each member can add their name, address, email, academic qualifications, soft skills, talents and photo to their own screen file. Keep photos in the app's `assets` folder, declare them in `pubspec.yaml` and set `_photoAsset` to the corresponding asset path.
+## Test Login Credentials
 
-## Lecturer test login
+Use the following test account to access the application for evaluation:
 
-Add the dedicated Firebase test account details to the handoff for the lecturer.
+- **Email:** `test@gmail.com`
+- **Password:** `Password@123`

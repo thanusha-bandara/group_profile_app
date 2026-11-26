@@ -62,6 +62,10 @@ flutter:
     - lib/assets/thanusha.jpg
     - lib/assets/nisal.png
     - lib/assets/anjana.jpg
+    - lib/assets/jm.jpg
+    - lib/assets/hashini.png
+    - lib/assets/IMG_1164.JPG.jpeg
+    - lib/assets/Nimantha.jpeg
 
   # To add assets to your application, add an assets section, like this:
   # assets:
