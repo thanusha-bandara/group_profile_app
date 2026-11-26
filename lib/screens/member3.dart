@@ -3,22 +3,34 @@ import 'package:flutter/material.dart';
 class Member3Screen extends StatelessWidget {
   const Member3Screen({super.key});
 
-  static const displayName = 'Member 3';
+  static const displayName = 'Malindu Dewapriya';
   static const accentColor = Color(0xFF216F68);
-  static const _photoAsset = '';
+  static const _photoAsset = 'lib/assets/malindu.jpg';
   static const _details = [
-    (icon: Icons.location_on_outlined, label: 'Address', value: 'To be added'),
-    (icon: Icons.email_outlined, label: 'Email', value: 'To be added'),
+    (
+      icon: Icons.location_on_outlined,
+      label: 'Address',
+      value: 'kurunagala road, polgahawela',
+    ),
+    (
+      icon: Icons.email_outlined,
+      label: 'Email',
+      value: 'malindudewapriya@gmail.com',
+    ),
     (
       icon: Icons.school_outlined,
       label: 'Academic qualifications',
-      value: 'To be added',
+      value: 'institute of technology university of moratuwa',
     ),
-    (icon: Icons.groups_outlined, label: 'Soft skills', value: 'To be added'),
+    (
+      icon: Icons.groups_outlined,
+      label: 'Soft skills',
+      value: 'teamwork, communication, problem-solving',
+    ),
     (
       icon: Icons.stars_outlined,
       label: 'Special talents',
-      value: 'To be added',
+      value: 'volleyball, cricket, music, photography',
     ),
   ];
 
